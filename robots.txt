@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://mariam-portfolio-opal.vercel.app/sitemap.xml
